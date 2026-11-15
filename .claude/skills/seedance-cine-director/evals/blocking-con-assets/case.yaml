@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: blocking-con-assets
+expected_outcome: |
+  Una entrega con ficha de generación (15 s, 21:9, omni reference), tabla de orden de subida
+  (@Video1 = blocking, @Image1-4 = Mara, cazador, ciudad, patrulla), una bitácora de cómo se leyó el
+  blocking y un prompt en perfil COMPLETO. El prompt limita @Video1 a blocking, cámara y timing,
+  declara que el previz gris no se renderiza, mapea cada proxy con su imagen, respeta los cortes
+  del blocking en los segundos 6 y 11, no nombra directores y pone el diálogo solo en la última toma.
+context:
+  scaffold_script: place-files.sh

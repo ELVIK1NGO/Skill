@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: idea-sin-blocking
+expected_outcome: |
+  Un prompt en perfil COMPLETO para text-to-video, sin bloque de referencias ni etiquetas @.
+  Plano secuencia de 12 s: ninguna toma marca corte. El estilo de los dos directores se traduce a
+  lenguaje de cámara, luz y actuación sin escribir sus nombres. Cada toma lleva lente en mm,
+  número f y una cadena física de acción y reacción.

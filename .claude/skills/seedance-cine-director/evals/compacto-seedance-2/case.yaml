@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: compacto-seedance-2
+expected_outcome: |
+  Un prompt en perfil COMPACTO de 3.000 caracteres como máximo, con los bloques fusionados de la
+  plantilla compacta. @Video1 queda limitado a blocking, cámara y timing con cláusula anti-gris y
+  @Image1 fija la identidad. Línea de tiempo de 0 a 8 s sin cortes, construida solo con lo que el
+  usuario describió del blocking. Duración 8 s en la ficha.
